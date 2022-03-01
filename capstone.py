@@ -1,5 +1,3 @@
-#Cap-stone project
-
 """
 The project consists of programming a valid chess board with a white king, a white queen, and the black king.
 The program runs the black king's turn, and it will return all of the possible moves that are available to the
